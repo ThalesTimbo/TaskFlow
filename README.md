@@ -1,7 +1,7 @@
-#🎯 TaskFlow — Gerenciador de Tarefas Online
+🎯 TaskFlow — Gerenciador de Tarefas Online
 TaskFlow é um aplicativo web simples e responsivo para organizar suas tarefas do dia a dia. Nele, você pode adicionar, editar, excluir e acompanhar o status das suas atividades com uma interface moderna e intuitiva.
 
-👉 Deploy: TaskFlow no Netlify
+👉 Deploy: [TaskFlow no Netlify](https://6830a227f670978bfe18a2ad--stellar-griffin-e5b8d4.netlify.app/)
 
 🛠️ Tecnologias
 HTML5
@@ -35,8 +35,6 @@ Font Awesome
 
 ✅ Armazenamento local (LocalStorage) para manter as tarefas salvas no navegador
 
-📸 Visual
-👉 Clique aqui e veja funcionando
 
 🎨 Autor
 Feito com 💙 por Thales
