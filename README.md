@@ -13,6 +13,7 @@ JavaScript (ES6+)
 Font Awesome
 
 ✨ Funcionalidades
+
 ✅ Adicionar nova tarefa com título, categoria e descrição (opcional)
 
 ✅ Editar tarefa: alterar título, categoria, descrição e status
