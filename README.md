@@ -39,4 +39,5 @@ Font Awesome
 
 🎨 Autor
 Feito com 💙 por Thales
+
 📱 Instagram: @thales_timbo
